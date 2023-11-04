@@ -1,0 +1,66 @@
+{
+  "guild": {
+    "id": "768706944097058828",
+    "name": "Feral File",
+    "iconUrl": "https://cdn.discordapp.com/icons/768706944097058828/94a7f068f640a8cf4df3eb2e6ae38b94.png?size=512"
+  },
+  "channel": {
+    "id": "1049752813741289522",
+    "type": "GuildTextChat",
+    "categoryId": "768706944785448960",
+    "category": "Welcome",
+    "name": "\uD83D\uDC4B┃getting-started",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2023-10-06T19:12:24.8473863+00:00",
+  "messages": [
+    {
+      "id": "1049788595805892648",
+      "type": "Default",
+      "timestamp": "2022-12-06T20:45:05.369+00:00",
+      "timestampEdited": "2023-01-03T01:47:49.409+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If you don’t know why you’re here, check out the Feral File website. https://feralfile.com/\n\nIt’s pretty easy for everyone to enjoy digital art together. If you just want to share your work https://discord.com/channels/768706944097058828/1058442237014446181, let off some steam, introduce yourself, please do so in #\uD83D\uDCAC┃welcome.\n\nPlease:\n> **DON’T** be a jerk.\n\n> **DON’T** be scammed. Avoid DM’ing (private messaging) others here about private transactions. If you need technical support, see our Contact page https://feralfile.com/docs/contact. No one from Feral File will ever ask for crypto, your private keys. When in doubt, ask publicly.\n\n\uD83D\uDCCC **A reminder for common questions:**\n\n• Feral File artworks are minted on Tezos or Ethereum; blockchain choice is made by the curators and artists at the exhibition level. Similarly, you can collect Feral File on secondary markets such as Objkt https://objkt.com/explore/collections/1?search=feralfile&sort=volume_total:desc and OpenSea https://opensea.io/FeralFile?tab=created.\n\n• We accept credit cards and crypto. While pricing is set in $ USD, you may pay in crypto directly from your web3 wallet for the applicable blockchain.\n\n• Enjoy your Feral File collection with our Autonomy digital art wallet on iOS https://apps.apple.com/us/app/autonomy-app/id1544022728 and Android https://play.google.com/store/apps/details?id=com.bitmark.autonomy_client&hl=en_US&gl=US. It gives you one easy-to-use app to securely collect, view and discover digital art you love. It supports Tezos and Ethereum NFTs.\n\n• Receive first knowledge of upcoming exhibitions and improvements to the collector experience through our newsletter https://us14.campaign-archive.com/home/?u=6ba47d35944fc04102b0e9ae6&id=534ea3fa0f.\n\n• Our mission is to build a sustainable curated ecosystem for digital art, driven by the long-term interests of our artists, curators, and collectors. Learn more here https://feralfile.com/docs/sustainability.",
+      "author": {
+        "id": "649508400077733908",
+        "name": "0xritawu",
+        "discriminator": "0000",
+        "nickname": "rita",
+        "color": "#3498DB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "850449370532282388",
+            "name": "mod",
+            "color": "#3498DB",
+            "position": 50
+          },
+          {
+            "id": "803692576401391677",
+            "name": "feral file",
+            "color": "#B8BAFF",
+            "position": 49
+          },
+          {
+            "id": "1048310847438590072",
+            "name": "Verified",
+            "color": "#00D2FC",
+            "position": 45
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/649508400077733908/df36d91992d4195f4ab9f232a63d3d57.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 1
+}

@@ -1,0 +1,324 @@
+{
+  "guild": {
+    "id": "768706944097058828",
+    "name": "Feral File",
+    "iconUrl": "https://cdn.discordapp.com/icons/768706944097058828/94a7f068f640a8cf4df3eb2e6ae38b94.png?size=512"
+  },
+  "channel": {
+    "id": "768706944785448961",
+    "type": "GuildTextChat",
+    "categoryId": "768706944785448960",
+    "category": "Welcome",
+    "name": "\uD83D\uDCD5┃code-of-conduct",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2023-10-06T19:12:26.2617458+00:00",
+  "messages": [
+    {
+      "id": "816777412460675072",
+      "type": "Default",
+      "timestamp": "2021-03-03T21:01:50.121+00:00",
+      "timestampEdited": "2021-03-03T21:03:31.002+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This Code of Conduct is subject to change and expansion. It was last updated March 3rd, 2021.\n\nAll participants in Feral File Discord server are required to agree to the following Code of Conduct.\n\n> **Be mindful of your language.** Engage with community members and contributors with respect and good intention.\n\n> **Use your best judgement.** If it will possibly make others uncomfortable, do not say it or post to the community forum.\n\n> **Be respectful.** While disagreements may arise, it is not an opportunity to attack or threaten someone else's thoughts and/or opinions. Remember to approach every situation with patience, understanding, and great care.\n\n> **Be intentional.** Consider how your contribution will affect others in the community.\n\n> **Be open minded.** Embrace new people and new ideas. Our community is continually evolving and we welcome positive change.",
+      "author": {
+        "id": "696554209360871424",
+        "name": "caseyreas",
+        "discriminator": "0000",
+        "nickname": "Casey REAS",
+        "color": "#B8BAFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "803692576401391677",
+            "name": "feral file",
+            "color": "#B8BAFF",
+            "position": 49
+          },
+          {
+            "id": "803671722074046506",
+            "name": "curator",
+            "color": "#1ABC9C",
+            "position": 47
+          },
+          {
+            "id": "768707484440461333",
+            "name": "artist",
+            "color": "#E74C3C",
+            "position": 46
+          },
+          {
+            "id": "1048310847438590072",
+            "name": "Verified",
+            "color": "#00D2FC",
+            "position": 45
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/696554209360871424/105204b4a47bf5f32341ed187954037f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "816777638559088710",
+      "type": "Default",
+      "timestamp": "2021-03-03T21:02:44.027+00:00",
+      "timestampEdited": "2021-03-03T22:01:44.329+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Feral File is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, mental illness, neurotype, physical appearance, body, age, race, ethnicity, nationality, language, or religion. We do not tolerate harassment of participants in any form.\n\nAny participant who violates this Code of Conduct may be expelled from this Discord Server at the discretion of the admins.\n\nFeral File prioritizes marginalized people’s safety over privileged people’s comfort. We reserve the right not to act on complaints regarding:\n\n> ‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’\n\n> Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you.”\n\n> Communicating in a ‘tone’ you don’t find congenial\n\n> Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions",
+      "author": {
+        "id": "696554209360871424",
+        "name": "caseyreas",
+        "discriminator": "0000",
+        "nickname": "Casey REAS",
+        "color": "#B8BAFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "803692576401391677",
+            "name": "feral file",
+            "color": "#B8BAFF",
+            "position": 49
+          },
+          {
+            "id": "803671722074046506",
+            "name": "curator",
+            "color": "#1ABC9C",
+            "position": 47
+          },
+          {
+            "id": "768707484440461333",
+            "name": "artist",
+            "color": "#E74C3C",
+            "position": 46
+          },
+          {
+            "id": "1048310847438590072",
+            "name": "Verified",
+            "color": "#00D2FC",
+            "position": 45
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/696554209360871424/105204b4a47bf5f32341ed187954037f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "816777705616965683",
+      "type": "Default",
+      "timestamp": "2021-03-03T21:03:00.015+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Acknowledgements**\n\nThis Code of Conduct was adapted from the Processing Community Day COC compiled by Dorothy R. Santos. It is based on resources provided by Geek Feminism, and borrows heavily from open source policies authored by p5.js and XOXO Festival.\n\nThis policy is licensed under a Creative Commons Attribution 4.0 International license. We encourage other organizations to adopt (and enforce) similar Codes of Conduct by using and remixing this one.",
+      "author": {
+        "id": "696554209360871424",
+        "name": "caseyreas",
+        "discriminator": "0000",
+        "nickname": "Casey REAS",
+        "color": "#B8BAFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "803692576401391677",
+            "name": "feral file",
+            "color": "#B8BAFF",
+            "position": 49
+          },
+          {
+            "id": "803671722074046506",
+            "name": "curator",
+            "color": "#1ABC9C",
+            "position": 47
+          },
+          {
+            "id": "768707484440461333",
+            "name": "artist",
+            "color": "#E74C3C",
+            "position": 46
+          },
+          {
+            "id": "1048310847438590072",
+            "name": "Verified",
+            "color": "#00D2FC",
+            "position": 45
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/696554209360871424/105204b4a47bf5f32341ed187954037f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 154
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "816792541075603478",
+      "type": "Default",
+      "timestamp": "2021-03-03T22:01:57.064+00:00",
+      "timestampEdited": "2022-12-08T23:59:07.737+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If you believe someone is violating the code of conduct on the forum, we ask you to report it by sending a DM to @Michael Nguyễn, @Sean Moss-Pultz, or @Casey REAS. Please include a description of the incident, and we will respond as quickly as possible.",
+      "author": {
+        "id": "696554209360871424",
+        "name": "caseyreas",
+        "discriminator": "0000",
+        "nickname": "Casey REAS",
+        "color": "#B8BAFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "803692576401391677",
+            "name": "feral file",
+            "color": "#B8BAFF",
+            "position": 49
+          },
+          {
+            "id": "803671722074046506",
+            "name": "curator",
+            "color": "#1ABC9C",
+            "position": 47
+          },
+          {
+            "id": "768707484440461333",
+            "name": "artist",
+            "color": "#E74C3C",
+            "position": 46
+          },
+          {
+            "id": "1048310847438590072",
+            "name": "Verified",
+            "color": "#00D2FC",
+            "position": 45
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/696554209360871424/105204b4a47bf5f32341ed187954037f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "652056933414469632",
+          "name": "_michaelnguyen",
+          "discriminator": "0000",
+          "nickname": "Michael Nguyễn",
+          "color": "#3498DB",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "850449370532282388",
+              "name": "mod",
+              "color": "#3498DB",
+              "position": 50
+            },
+            {
+              "id": "803692576401391677",
+              "name": "feral file",
+              "color": "#B8BAFF",
+              "position": 49
+            },
+            {
+              "id": "1048310847438590072",
+              "name": "Verified",
+              "color": "#00D2FC",
+              "position": 45
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/652056933414469632/57525ed5990a6a25b2f838957fc31c4c.png?size=512"
+        },
+        {
+          "id": "696554209360871424",
+          "name": "caseyreas",
+          "discriminator": "0000",
+          "nickname": "Casey REAS",
+          "color": "#B8BAFF",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "803692576401391677",
+              "name": "feral file",
+              "color": "#B8BAFF",
+              "position": 49
+            },
+            {
+              "id": "803671722074046506",
+              "name": "curator",
+              "color": "#1ABC9C",
+              "position": 47
+            },
+            {
+              "id": "768707484440461333",
+              "name": "artist",
+              "color": "#E74C3C",
+              "position": 46
+            },
+            {
+              "id": "1048310847438590072",
+              "name": "Verified",
+              "color": "#00D2FC",
+              "position": 45
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/696554209360871424/105204b4a47bf5f32341ed187954037f.png?size=512"
+        },
+        {
+          "id": "653508503327211550",
+          "name": "moskovich",
+          "discriminator": "0000",
+          "nickname": "Sean Moss-Pultz",
+          "color": "#3498DB",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "850449370532282388",
+              "name": "mod",
+              "color": "#3498DB",
+              "position": 50
+            },
+            {
+              "id": "803692576401391677",
+              "name": "feral file",
+              "color": "#B8BAFF",
+              "position": 49
+            },
+            {
+              "id": "1048310847438590072",
+              "name": "Verified",
+              "color": "#00D2FC",
+              "position": 45
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/653508503327211550/8e2c684c956eafd59b946a6e49e2bd5a.png?size=512"
+        }
+      ]
+    }
+  ],
+  "messageCount": 4
+}
